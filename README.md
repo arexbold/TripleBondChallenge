@@ -3,6 +3,8 @@ A very difficult challenge that focuses around using 3 Pokemon that are soul bou
 
 **PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. I JUST RUSHED TO GET THIS STUFF UP LOL**
 
+The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn or even use mons like Shedenja when you normally couldn't use in single mon challenges. 
+
 ## Core Rules
 
 ### Party Rules
