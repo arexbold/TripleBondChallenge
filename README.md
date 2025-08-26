@@ -3,6 +3,8 @@ A very difficult challenge that focuses around using 3 Pokemon that are soul bou
 
 **PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. I JUST RUSHED TO GET THIS STUFF UP LOL**
 
+**THIS CHALLENGE IS NOT PUBLIC TO USE YET SINCE I'M MAKING THE TWEAKS BEFORE IT SO PLEASE BE PATIENT**
+
 The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn or even use mons like Shedenja when you normally couldn't use in single mon challenges. 
 
 ## Core Rules
@@ -10,7 +12,8 @@ The greatest thing about this challenge is that it will open up the door to SO M
 ### Party Rules
 - You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
-- You must have your party of 3 before you fight the rival. 
+- You must have your party of 3 before you fight the rival.
+- No dupes of the same mon.
 - After you beat gym 4, you're allowed to swap out 1 Pokemon from the Bug Catching contest.
 
 ### Permadeath
@@ -40,6 +43,10 @@ The greatest thing about this challenge is that it will open up the door to SO M
 - Expedited starter area
 - Balls in the beginning
 - AND MORE SORRY ILL UPDATE AGAIN LATER LOL
+
+### Restrictions
+- TMs found in the field are not allowed to be used for now. TMs from Gym Leaders can be used.
+- Most banned moves/abilities/items will be situated soon. 
 
 ---
 
