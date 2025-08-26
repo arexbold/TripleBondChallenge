@@ -1,6 +1,8 @@
 # TripleBondChallenge
 A very difficult challenge that focuses around using 3 Pokemon that are soul bound together.
 
+**PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. I JUST RUSHED TO GET THIS STUFF UP LOL**
+
 ## Core Rules
 
 ### Party Rules
@@ -29,6 +31,13 @@ A very difficult challenge that focuses around using 3 Pokemon that are soul bou
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Forced evos for enemy mons at level 30.
 - More rules will come.
+- No legendary or psuedo legendary pokemon. Basically nothing higher than 599 BST.
+
+### QOL Updates and Features
+- New scouting zone before rival
+- Expedited starter area
+- Balls in the beginning
+- AND MORE SORRY ILL UPDATE AGAIN LATER LOL
 
 ---
 
