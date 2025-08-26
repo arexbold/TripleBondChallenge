@@ -11,9 +11,10 @@ The greatest thing about this challenge is that it will open up the door to SO M
 
 ### Party Rules
 - You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
-- You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
+- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons before defeating the rival.
 - You must have your party of 3 before you fight the rival.
 - No dupes of the same mon.
+- Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
 - After you beat gym 4, you're allowed to swap out 1 Pokemon from the Bug Catching contest.
 
 ### Permadeath
