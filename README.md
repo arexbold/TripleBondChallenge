@@ -53,5 +53,5 @@ The greatest thing about this challenge is that it will open up the door to SO M
 ---
 
 ## Victory Conditions
-- **Win:** Defeat Red in the Kanto Region. 
+- **Win:** Defeat Red in Mt Silver.
 - **Lose:** If **any one** of your 3 dies, reset.
