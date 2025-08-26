@@ -11,11 +11,11 @@ The greatest thing about this challenge is that it will open up the door to SO M
 
 ### Party Rules
 - You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
-- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons before defeating the rival.
+- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons. (Except below)
 - You must have your party of 3 before you fight the rival.
 - No dupes of the same mon.
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
-- After you beat gym 4, you're allowed to swap out 1 Pokemon from the Bug Catching contest.
+- After you beat gym 4, you're allowed to swap out 1 Pokemon from the Bug Catching contest. You're allowed to scout these mons. (FOR NOW... we gotta test how it feels)
 
 ### Permadeath
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset.  
@@ -28,7 +28,8 @@ The greatest thing about this challenge is that it will open up the door to SO M
 ### Battle Rules
 - **Set battle style**
 - **No items in battle.** (Held items are allowed except broken items like Leftovers, Focus Band, etc.)
-- **No healing outside of battle.**  
+- **No healing outside of battle.**
+- Pokemon Center usage is fine of course.
 
 ### Trainer & Game Rules
 - Trainer Pokemon levels are increased by 30% (still trying to find the balance for the lower level Pokemon for the player)  
