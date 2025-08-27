@@ -33,6 +33,9 @@ Special thanks to DS Hacking community members Kalaay and Yoko for helping with 
 ### Banned Abilities
 - Pickup is banned in a challenge like this so it will no longer randomize on Pokemon.
 
+### Banned Moves
+- Rest, Spore, and Pain Split.
+
 ### Setup Moves/Items restrictions
 - You are allowed to use any 1 stage Setup Move twice per battle. Ex: Growl, Meditate, Harden
 - You are allowed to use any 2 stage Setup Move once per battle. Ex: Swords Dance, Tail Glow, Iron Defense (Moves like Dragon Dance count as a 2 stage Setup Move.)
