@@ -1,14 +1,13 @@
 # TripleBondChallenge
-A very difficult challenge that focuses around using 3 Pokemon that are soul bound together in Pokemon HeartGold. Challenge by [Arex](https://twitch.tv/Arex)
+A very difficult challenge that focuses around using 3 Pokemon that are soul bound together in Pokemon HeartGold.
+
+**PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. THE PATCHES ARE NOT PUBLIC YET SINCE I'M STILL MAKING TWEAKS SO PLEASE BE PATIENT.**
+
+**Challenge by [Arex](https://twitch.tv/Arex)**
+
 Special thanks to DS Hacking community members Kalaay and Yoko for helping with changing hardcoded stuff for EXP and Fantafaust for help with HM QOL updates.
 
-**PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. I JUST RUSHED TO GET THIS STUFF UP LOL**
-
-**THIS CHALLENGE IS NOT PUBLIC TO USE YET SINCE I'M MAKING THE TWEAKS BEFORE IT SO PLEASE BE PATIENT! I WILL RELEASE EVERYTHING AS QUICK AS I CAN**
-
-The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn, use a Tank Mon, and potentially even use a Shedinja(?!) in your party. 
-
-## Core Rules
+## **Core Rules**
 
 ### Party Rules
 - You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
@@ -98,5 +97,11 @@ The greatest thing about this challenge is that it will open up the door to SO M
 - **Lose:** If **any one** of your 3 dies, reset.
 
 ---
+### Downloads
+- Modified randomizer required for this challenge: **Pending on link**
+- Settings file required for this challenge: **Pending on link**
+- Patch for the game: **Pending on link**
 
-### More info
+
+### Comments
+The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn, use a Tank Mon, and potentially even use a Shedinja(?!) in your party. I would love to see people explore 2 damage dealers and 1 tank for team synergy. Hope you enjoy the challenge!
