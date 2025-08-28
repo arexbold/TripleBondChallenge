@@ -67,7 +67,8 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 ### Trainer & Game Rules
 - Trainer Pokemon levels are increased by 30% (still trying to find the balance for the lower level Pokemon for the player)  
 - No shops except for Repels and Poke Balls.
-- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared. 
+- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
+- You are allowed to go back into a Dungeon if you have cleared it.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Forced evos for enemy mons at level 30.
 - More specific rules will come to clarify more information.
