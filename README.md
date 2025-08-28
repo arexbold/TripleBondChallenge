@@ -5,7 +5,7 @@ A very difficult challenge that focuses around using 3 Pokemon that are soul bou
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
-Special thanks to DS Hacking community members Kalaay and Yoko for helping with changing hardcoded stuff for EXP and Fantafaust for help with HM QOL updates.
+Special thanks to DS Hacking community members Kalaay and Yako for helping with changing hardcoded stuff for EXP and Fantafaust for help with HM QOL updates.
 
 ## **Core Rules**
 
@@ -102,6 +102,7 @@ Special thanks to DS Hacking community members Kalaay and Yoko for helping with 
 ---
 ### Downloads
 - Modified randomizer required for this challenge: **Pending on link**
+- Modified tracker required for this challenge: **Pending on link**
 - Settings file required for this challenge: **Pending on link**
 - Patch for the game: **Pending on link**
 
