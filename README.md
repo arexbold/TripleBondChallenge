@@ -81,6 +81,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash
 
 ### QOL Updates and Features
+- Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
 - Smarter randomization for stats so that mons are less likely to be completely useless. 
 - Removed 19 moves from the randomized move pool. (Splash, Imprison, Teleport, Spider Web, Spikes, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Toxic Spikes, Stealth Rock, Lunar Dance, Snatch) **This will be modified soon remove/add some moves**
 - Removed the same 19 moves from the TM randomization pool.
