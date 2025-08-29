@@ -11,14 +11,14 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 
 ### Party Rules
 - You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
-- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons. (Except for the Bug Catching Scout Reward)
+- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons for their moves. (Except for the Bug Catching Scout Reward)
 - You must have your party of 3 before you fight the rival. No more, no less.
 - No dupes of the same mon.
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
 - The only time you can replace a Pokemon is after you beat gym 4. See below.
 
 ### Pokemon Scouting
-- As stated above, you are not allowed to scout any mons until the Bug Catching Contest. This is not to punish people but to make them improvise with what they've been given like an actual roguelike. I have modified how the Randomizer randomizes stats and even banned useless moves (see QOL changes at bottom) so that it's less likely to get completely useless mons. The strategy will come from picking your team of three. 
+- As stated above, you are not allowed to scout any mons until the Bug Catching Contest. This is not to punish people but to make them improvise with what they've been given like an actual roguelike. I have modified how the Randomizer randomizes stats and even banned useless moves (see QOL changes at bottom) so that it's less likely to get completely useless mons. The strategy will come from picking your team of three. There's also the fact that you're not forced to pivot when you catch. So catch all your mons and figure out who stays.
 - Please see Bug Catching Scout Reward for info on actual allowed scouting.
 
 ### Pokemon Restrictions
@@ -83,7 +83,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
 - Smarter randomization for stats so that mons are less likely to be completely useless. 
-- Removed 19 moves from the randomized move pool. (Splash, Imprison, Teleport, Spider Web, Spikes, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Toxic Spikes, Stealth Rock, Lunar Dance, Snatch) **This will be modified soon remove/add some moves**
+- Removed 19 moves from the randomized move pool. (Splash, Imprison, Teleport, Spider Web, Spikes, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Toxic Spikes, Stealth Rock, Lunar Dance, Snatch) **This will be modified soon remove/add some moves I just haven't gotten to it yet.**
 - Removed the same 19 moves from the TM randomization pool.
 - Removed Pick Up from the randomized ability pool. (No need to have this if you're not allowed to take items from Pick Up)
 - Added HMs to the randomized move pool.
