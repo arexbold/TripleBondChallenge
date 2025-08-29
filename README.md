@@ -96,6 +96,9 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - Some moves have been modified to fit the challenge. Mainly the healing moves.
 - Move Releaner NPC at the Bug Catching Contest
 
+### Updated Moves
+- There have been some moves that are awful that have been boosted slightly. IE things like Bullet Seed. I'll go into more detail later.
+
 ## Victory Conditions
 - **Win:** Defeat Red in Mt Silver.
 - **Lose:** If **any one** of your 3 dies, reset.
