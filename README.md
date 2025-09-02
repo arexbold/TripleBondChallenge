@@ -10,7 +10,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 ## **Core Rules**
 
 ### Party Rules
-- You may only ever have **three Pokemon** in your party. (After I get the HM QOL patched)
+- You may only ever have **three Pokemon** in your party. (No more HM friends needed anymore with QOL feature)
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons for their moves. (Except for the Bug Catching Scout Reward)
 - You must have your party of 3 before you fight the rival. No more, no less.
 - No dupes of the same mon.
@@ -20,6 +20,9 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 ### Pokemon Scouting
 - As stated above, you are not allowed to scout any mons until the Bug Catching Contest. This is not to punish people but to make them improvise with what they've been given like an actual roguelike. I have modified how the Randomizer randomizes stats and even banned useless moves (see QOL changes at bottom) so that it's less likely to get completely useless mons. The strategy will come from picking your team of three. There's also the fact that you're not forced to pivot when you catch. So catch all your mons and figure out who stays.
 - Please see Bug Catching Scout Reward for info on actual allowed scouting.
+
+### Early Run
+- You're allowed to use the TM 70 and catch a last second mon from the Sprout Tower after you beat it.
 
 ### Pokemon Restrictions
 - You cannot use any Pokemon with a BST of 600 or higher. Exception: If a Pokemon happens to evolve into a Pseudo Legendary mon of 600 BST that's fine.
@@ -96,6 +99,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - No longer need an HM friend **COMING SOON**
 - Some moves have been modified to fit the challenge. Mainly the healing moves.
 - Move Releaner NPC at the Bug Catching Contest
+- You will ALWAYS run away from battle. No longer need Smoke Ball. Just in case, wear one at Bug Catching. Start of game you don't have to worry since you're not allowed to scout moves.
 
 ### Updated Moves
 - There have been some moves that are awful that have been boosted slightly. IE things like Bullet Seed. I'll go into more detail later.
