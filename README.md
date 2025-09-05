@@ -63,7 +63,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 
 ### Battle Rules
 - **Set battle style**
-- **No items in battle.** (Held items are allowed except broken items like Leftovers, Focus Band, etc.)
+- Held items are allowed except broken items like Leftovers, Focus Band, etc.
 - **No healing outside of battle.**
 - Pokemon Center usage is fine of course.
 
