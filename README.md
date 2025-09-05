@@ -96,7 +96,8 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - Equalized the wild grass rates to be even between all mons. (It's not perfect unfortunately)
 - You are unable to use the lab for healing but will get healed right before you start the Rival battle.
 - Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
-- No longer need an HM friend **COMING SOON**
+- No longer need an HM friend.
+- Fast Travel (Fly) with pressing the R button.
 - Some moves have been modified to fit the challenge. Mainly the healing moves.
 - Move Releaner NPC at the Bug Catching Contest
 - You will ALWAYS run away from battle. No longer need Smoke Ball. Just in case, wear one at Bug Catching. Start of game you don't have to worry since you're not allowed to scout moves.
