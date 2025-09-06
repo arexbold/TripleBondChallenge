@@ -62,7 +62,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - All EXP comes from **trainer battles only**.
 
 ### Battle Rules
-- **Set battle style**
+- The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
 - Held items are allowed except broken items like Leftovers, Focus Band, etc.
 - **No healing outside of battle.**
 - Pokemon Center usage is fine of course.
