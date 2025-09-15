@@ -114,8 +114,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ---
 ### Downloads
 - Patch for the game and settings file for randomizer: [https://github.com/arexbold/TripleBondChallenge/releases](https://github.com/arexbold/TripleBondChallenge/releases)
-- Modified randomizer required for this challenge: [https://github.com/arexbold/TripleBondRandomizer](https://github.com/arexbold/TripleBondRandomizer)
-- Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker](https://github.com/arexbold/TripleBondTracker)
+- Modified randomizer required for this challenge: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
+- Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
 
 ### Known Bugs
 - TMs will not disappear after use.
