@@ -1,11 +1,11 @@
 # TripleBondChallenge
 A very difficult challenge that focuses around using 3 Pokemon that are soul bound together in Pokemon HeartGold.
 
-**PLEASE NOTE THAT I HAVEN'T LISTED EVERYTHING IN THIS CHALLENGE YET SO HONESTLY JUST WAIT UNTIL I MAKE AN OFFICIAL ANNOUNCEMENT THAT IT'S DONE. THE PATCHES ARE NOT PUBLIC YET SINCE I'M STILL MAKING TWEAKS SO PLEASE BE PATIENT.**
+**PLEASE NOTE THAT THIS PAGE IS A WORK IN PROGRESS. CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** Join Discord for bugs/feedback: [https://discord.gg/5QFdXGh](https://discord.gg/5QFdXGh)
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
-Special thanks to DS Hacking community members Kalaay and Yako for helping with changing hardcoded stuff for EXP and Fantafaust for help with HM QOL updates.
+Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff QOL including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking.
 
 ## **Core Rules**
 
@@ -37,7 +37,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - Pickup is banned in a challenge like this so it will no longer randomize on Pokemon.
 
 ### Banned Moves
-- Rest, Spore, and Pain Split.
+- Rest, Spore, Beat Up, and Pain Split.
 
 ### Setup Moves/Items restrictions
 - You are allowed to use any 1 stage Setup Move twice per battle. Ex: Growl, Meditate, Harden
@@ -63,7 +63,7 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 
 ### Battle Rules
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
-- Held items are allowed except broken items like Leftovers, Focus Band, etc.
+- Held items are allowed except broken items like Leftovers, Focus Band, etc. See below.
 - **No healing outside of battle.**
 - Pokemon Center usage is fine of course.
 
@@ -79,16 +79,17 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 ### TMs/HMs usage
 - TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
 - HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
+- TMs will not disappear after use due to a bug. You cannot keep using that TM.
 
 ### Held Item restrictions
-- You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash
+- You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
+- Anything that will heal you essentially
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
 - Smarter randomization for stats so that mons are less likely to be completely useless. 
-- Removed 19 moves from the randomized move pool. (Splash, Imprison, Teleport, Spider Web, Spikes, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Toxic Spikes, Stealth Rock, Lunar Dance, Snatch) **This will be modified soon remove/add some moves I just haven't gotten to it yet.**
-- Removed the same 19 moves from the TM randomization pool.
-- Removed Pick Up from the randomized ability pool. (No need to have this if you're not allowed to take items from Pick Up)
+- Removed 16 moves from the randomized move and TM pool. (Splash, Imprison, Teleport, Spider Web, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Lunar Dance, Snatch) 
+- Removed Pick Up from the randomized ability pool.
 - Added HMs to the randomized move pool.
 - 30 Nest Balls, Old Rod, and Smokeball given at the beginning.
 - You can now catch up to 4 mons (from 11 mons available) before the rival. This includes a fishing spot in New Bark.
@@ -100,10 +101,11 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 - Fast Travel (Fly) with pressing the R button.
 - Some moves have been modified to fit the challenge. Mainly the healing moves.
 - Move Releaner NPC at the Bug Catching Contest
+- Move Teacher for Spite at the Bug Catching Contest
 - You will ALWAYS run away from battle. No longer need Smoke Ball. Just in case, wear one at Bug Catching. Start of game you don't have to worry since you're not allowed to scout moves.
 
 ### Updated Moves
-- There have been some moves that are awful that have been boosted slightly. IE things like Bullet Seed. I'll go into more detail later.
+- There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
 
 ## Victory Conditions
 - **Win:** Defeat Red in Mt Silver.
@@ -111,11 +113,12 @@ Special thanks to DS Hacking community members Kalaay and Yako for helping with 
 
 ---
 ### Downloads
-- Modified randomizer required for this challenge: **Pending on link**
-- Modified tracker required for this challenge: **Pending on link**
-- Settings file required for this challenge: **Pending on link**
-- Patch for the game: **Pending on link**
+- Patch for the game and settings file for randomizer: [https://github.com/arexbold/TripleBondChallenge/releases](https://github.com/arexbold/TripleBondChallenge/releases)
+- Modified randomizer required for this challenge: [https://github.com/arexbold/TripleBondRandomizer](https://github.com/arexbold/TripleBondRandomizer)
+- Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker](https://github.com/arexbold/TripleBondTracker)
 
+### Known Bugs
+- TMs will not disappear after use.
 
 ### Comments
 The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn, use a Tank Mon, and potentially even use a Shedinja(?!) in your party. I would love to see people explore 2 damage dealers and 1 tank for team synergy. Hope you enjoy the challenge!
