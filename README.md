@@ -23,6 +23,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Early Run
 - You're allowed to use the TM 70 and catch a last second mon from the Sprout Tower after you beat it.
+- After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these in order to "fix" your mons.
 
 ### Pokemon Restrictions
 - You cannot use any Pokemon with a BST of 600 or higher. Exception: If a Pokemon happens to evolve into a Pseudo Legendary mon of 600 BST that's fine.
@@ -47,7 +48,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Bug Catching Scout Reward
 - After you beat gym 4, you are now rewarded with a scouted mon! Congratulations on getting here. Now that you know what your team lacks, it's time to search for the missing piece to your trio!
-- You are allowed to catch any mon that is the same level or lower than your highest mon.
+- All mons in the Bug Catching Contest are level 30. There are no level restrictions anymore.
 - You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset. 
 - You are allowed to use the Move Relearner NPC at the Bug Catching Contest on your **confirmed picked mon** and only **after you release the mon you're giving up from your original three**.
