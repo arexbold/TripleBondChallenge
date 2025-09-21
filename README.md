@@ -1,7 +1,7 @@
 # TripleBondChallenge
 A very difficult challenge that focuses around using 3 Pokemon that are soul bound together in Pokemon HeartGold.
 
-**PLEASE NOTE THAT THIS PAGE IS A WORK IN PROGRESS. CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
+**CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES. SO IF YOU'RE DOWN TO TEST AND GIVE FEEDBACK PLEASE DO SO.** 
 
 Join Discord for bugs/feedback (The public channels will be up soon sorry): [https://discord.gg/5QFdXGh](https://discord.gg/5QFdXGh)
 
