@@ -10,35 +10,55 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ## **Core Rules**
 
 ### Party Rules
-- You may only ever have **three Pokemon** in your party. (No more HM friends needed anymore with QOL feature)
-- You can only catch one mon from each route via the 3 halls or fishing spot before the rival. You are not allowed to scout any mons for their moves. (Except for the Bug Catching Scout Reward)
-- You must have your party of 3 before you fight the rival. No more, no less.
-- No dupes of the same mon.
+- You may only ever have **three Pokemon** in your party if you're going to battle.
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
-- The only time you can replace a Pokemon is after you beat gym 4. See below.
+- The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward)
 
-### Pokemon Scouting
-- As stated above, you are not allowed to scout any mons until the Bug Catching Contest. This is not to punish people but to make them improvise with what they've been given like an actual roguelike. I have modified how the Randomizer randomizes stats and even banned useless moves (see QOL changes at bottom) so that it's less likely to get completely useless mons. The strategy will come from picking your team of three. There's also the fact that you're not forced to pivot when you catch. So catch all your mons and figure out who stays.
-- Please see Bug Catching Scout Reward for info on actual allowed scouting.
+### Battle Rules
+- The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
+- All Held Items are allowed except broken items like Leftovers, Focus Band, etc. See Held Item Restrictions.
+- **No healing outside of battle** except for using the Pokemon Center.
 
-### Early Run
-- You're allowed to use the TM 70 and catch a last second mon from the Sprout Tower after you beat it.
-- After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these in order to "fix" your mons.
+### Permadeath
+- If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
+
+### Start of Run
+- **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
+- You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
+- You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
+- You must have your party of 3 before you fight the rival. No more, no less.
+
+### Early Run Rewards
+- You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
+- After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these if you want to *fix* your Pokemon's stats.
+
+### EXP & Progression
+- EXP is **evenly distributed** among all three Pokemon (via patch).
+  - It doesn't matter if they participated in the battle or not.
+- **No wild Pokemon EXP**.
+- All EXP comes from **trainer battles only**.
 
 ### Pokemon Restrictions
-- You cannot use any Pokemon with a BST of 600 or higher. Exception: If a Pokemon happens to evolve into a Pseudo Legendary mon of 600 BST that's fine.
-- No legendaries.
-- No dupes of the same Pokemon. Exception: If a Pokemon happens to evolve into the same mon as another party member it's fine. 
+- You cannot use any Pokemon with a BST of 600 or higher.
+  - Exception: If a Pokemon happens to evolve into a Pseudo Legendary mon of 600 BST that's fine.
+- No dupes of the same Pokemon.
+  - Exception: If a Pokemon happens to evolve into the same mon as another party member it's fine.
+- No legendaries. 
 
 ### Move/Ability restrictions
-- Can only use Huge/Pure Power on mons with 420 BST and below. Exception: If you **never** use a physical move, you don't have a BST restriction.
-- Can use healing moves but only once per battle. They've been modified to have less PP. You cannot use healing moves in wild battles.
+- Can only use Huge/Pure Power on mons with 420 BST and below.
+  - Exception: If you **never** use a physical move, you don't have a BST restriction. 
+- Can use healing moves but only once per battle if outside of a dungeon/gym.
+  - If you're in a dungeon/gym you can only use it once for that whole dungeon/gym.
+  - You cannot use healing moves in wild battles.
+- You can freely use drain moves (Giga Drain, Drain Punch, etc) because their drain amount have been lowered to 20%.
 
 ### Banned Abilities
-- Pickup is banned in a challenge like this so it will no longer randomize on Pokemon.
+- Pickup is banned and taken out of the randomization.
 
 ### Banned Moves
-- Rest, Spore, Beat Up, and Pain Split.
+- Rest, Spore, and Pain Split.
+  - They're not taken out of the randomization so that the enemy can still use them.
 
 ### Setup Moves/Items restrictions
 - You are allowed to use any 1 stage Setup Move twice per battle. Ex: Growl, Meditate, Harden
@@ -46,51 +66,37 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You are allowed to use any Setup Items but only twice per battle.
 - **If you use a Setup Item in battle, you are not allowed use Setup Moves in that same battle or vice versa**. 
 
-### Bug Catching Scout Reward
-- After you beat gym 4, you are now rewarded with a scouted mon! Congratulations on getting here. Now that you know what your team lacks, it's time to search for the missing piece to your trio!
-- All mons in the Bug Catching Contest are level 30. There are no level restrictions anymore.
-- You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
-- If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset. 
-- You are allowed to use the Move Relearner NPC at the Bug Catching Contest on your **confirmed picked mon** and only **after you release the mon you're giving up from your original three**.
-- If you are not going to scout for any Pokemon and are satisfied with your team of three, you are allowed to use the Move Relearner NPC on any one of your original three. **Only if you choose to not scout**.
-
-### Permadeath
-- If **any one** of your 3 mons faints at any time, their bond is broken and you must reset.  
-
-### EXP & Progression
-- EXP is **evenly distributed** among all three Pokemon (via patch).
-- **No wild Pokemon EXP**.
-- All EXP comes from **trainer battles only**.
-
-### Battle Rules
-- The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
-- Held items are allowed except broken items like Leftovers, Focus Band, etc. See below.
-- **No healing outside of battle.**
-- Pokemon Center usage is fine of course.
-
-### Trainer & Game Rules
-- Trainer Pokemon levels are increased by 30% (still trying to find the balance for the lower level Pokemon for the player)  
-- No shops except for Repels and Poke Balls.
-- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
-- You are allowed to go back into a Dungeon if you have cleared it.
-- Moves, abilities, evolutions (same typing), stats, etc are all randomized.
-- Forced evos for enemy mons at level 30.
-- More specific rules will come to clarify more information.
-
-### TMs/HMs usage
-- TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
-- HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
-- TMs will not disappear after use due to a bug. You cannot keep using that TM.
-
 ### Held Item restrictions
 - You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
 - Anything that will heal you essentially
 
+### TMs/HMs usage
+- TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
+- HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
+- TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
+
+### Bug Catching Scout Reward
+- After you beat gym 4, you are now rewarded with a scouted mon! Congratulations on getting here. Now that you know what your team lacks, it's time to search for the missing piece to your trio!
+- You're allowed to use 1 of the 3 TMs that are leading up to the Bug Catching Contest. TMs 28, 65, 12.
+- All mons in the Bug Catching Contest are level 30 so there are no level restrictions.
+- You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
+- If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
+- You are allowed to use the Spite Move Tutor at the Bug Catching Contest if you choose.
+- You are allowed to use the Move Relearner NPC at the Bug Catching Contest on your **confirmed picked mon** and only **after you release the mon you're giving up from your original three**.
+- If you are not going to scout for any Pokemon and are satisfied with your team of three already, you are allowed to use the Move Relearner NPC on any one of your original three. **Only if you choose to not scout**.
+
+### Trainer & Game Rules
+- Trainer Pokemon levels are increased by 30%.
+- No shopping except for Repels.
+- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
+  - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind.
+- Moves, abilities, evolutions (same typing), stats, etc are all randomized.
+- Forced evos for enemy mons at level 30.
+
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
-- Smarter randomization for stats so that mons are less likely to be completely useless. 
-- Removed 16 moves from the randomized move and TM pool. (Splash, Imprison, Teleport, Spider Web, False Swipe, Mean Look, Sweet Scent, Spit Up, Swallow, Recycle, Block, Natural Gift, Feint, Fling, Lunar Dance, Snatch) 
-- Removed Pick Up from the randomized ability pool.
+- Class system for randomized stats. Randomize between 8 different classes with additional smart randomization. Less "useless" mons compared to vanilla randomization.
+- Removed moves and abilities to better adjust for challenge.
 - Added HMs to the randomized move pool.
 - 30 Nest Balls, Old Rod, and Smokeball given at the beginning.
 - You can now catch up to 4 mons (from 11 mons available) before the rival. This includes a fishing spot in New Bark.
@@ -99,11 +105,11 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You are unable to use the lab for healing but will get healed right before you start the Rival battle.
 - Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
 - No longer need an HM friend.
-- Fast Travel (Fly) with pressing the R button.
-- Some moves have been modified to fit the challenge. Mainly the healing moves.
+- Fast Travel (Fly) with pressing the R button. This is unlocked from the beginning of the game but don't start using until you beat the rival.
+- Some moves have been modified to fit the challenge. Mainly weak moves have been buffed, drain moves changed, and other changes.
 - Move Releaner NPC at the Bug Catching Contest
-- Move Teacher for Spite at the Bug Catching Contest
-- You will ALWAYS run away from battle. No longer need Smoke Ball. Just in case, wear one at Bug Catching. Start of game you don't have to worry since you're not allowed to scout moves.
+- Move Tutor for Spite at the Bug Catching Contest
+- You will ALWAYS run away from battle. No longer need Smoke Ball. 
 
 ### Updated Moves
 - There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
@@ -119,7 +125,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
 
 ### Known Bugs
-- TMs will not disappear after use.
+- TMs will not disappear after use. Please sell them after you use it.
 
 ### Comments
 The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn, use a Tank Mon, and potentially even use a Shedinja(?!) in your party. I would love to see people explore 2 damage dealers and 1 tank for team synergy. Hope you enjoy the challenge!
