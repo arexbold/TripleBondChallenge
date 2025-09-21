@@ -136,10 +136,10 @@ Download the [patch](https://github.com/arexbold/TripleBondChallenge/releases) a
 ### Required Emulator
 Please use Bizhawk for this challenge: [https://github.com/TASEmulators/BizHawk/releases/tag/2.10](https://github.com/TASEmulators/BizHawk/releases/tag/2.10)
 
+Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
+
 ### Required Tracker and Randomizer
 It is required that you use the custom tracker and randomizer for this challenge.
-
-Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
 
 Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
 
