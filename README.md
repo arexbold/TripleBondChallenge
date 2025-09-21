@@ -1,11 +1,13 @@
 # TripleBondChallenge
 A very difficult challenge that focuses around using 3 Pokemon that are soul bound together in Pokemon HeartGold.
 
-**PLEASE NOTE THAT THIS PAGE IS A WORK IN PROGRESS. CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** Join Discord for bugs/feedback: [https://discord.gg/5QFdXGh](https://discord.gg/5QFdXGh)
+**PLEASE NOTE THAT THIS PAGE IS A WORK IN PROGRESS. CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
+
+Join Discord for bugs/feedback (The public channels will be up soon sorry): [https://discord.gg/5QFdXGh](https://discord.gg/5QFdXGh)
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
-Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff QOL including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking.
+Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff QOL including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge.
 
 ## **Core Rules**
 
@@ -92,6 +94,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Forced evos for enemy mons at level 30.
+- Gym leaders, bosses, and Elite Four trainers have held items.
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
@@ -109,7 +112,10 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Some moves have been modified to fit the challenge. Mainly weak moves have been buffed, drain moves changed, and other changes.
 - Move Releaner NPC at the Bug Catching Contest
 - Move Tutor for Spite at the Bug Catching Contest
-- You will ALWAYS run away from battle. No longer need Smoke Ball. 
+- You will ALWAYS run away from battle. No longer need Smoke Ball.
+
+### Favorites
+- There's no need to do Favorites like seen in other challenges but feel free to do it if you want.
 
 ### Updated Moves
 - There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
@@ -119,13 +125,20 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - **Lose:** If **any one** of your 3 dies, reset.
 
 ---
-### Downloads
+## Setup
+Information for setting up to run the challenge.
+### How to patch your game for Triple Bond Challenge
+Download the [patch](https://github.com/arexbold/TripleBondChallenge/releases) and apply it to a vanilla USA HeartGold rom with the Rom Patcher: [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/)
+
+### Required Emulator
+Please use Bizhawk for this challenge: [https://github.com/TASEmulators/BizHawk/releases/tag/2.10](https://github.com/TASEmulators/BizHawk/releases/tag/2.10)
+
+Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
+
+## Downloads
 - Patch for the game and settings file for randomizer: [https://github.com/arexbold/TripleBondChallenge/releases](https://github.com/arexbold/TripleBondChallenge/releases)
 - Modified randomizer required for this challenge: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
 - Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
 
-### Known Bugs
+## Known Bugs
 - TMs will not disappear after use. Please sell them after you use it.
-
-### Comments
-The greatest thing about this challenge is that it will open up the door to SO MANY more strategies to work with including being able to use moves like U-Turn, use a Tank Mon, and potentially even use a Shedinja(?!) in your party. I would love to see people explore 2 damage dealers and 1 tank for team synergy. Hope you enjoy the challenge!
