@@ -138,15 +138,12 @@ Please use Bizhawk for this challenge: [https://github.com/TASEmulators/BizHawk/
 
 ### Required Tracker and Randomizer
 It is required that you use the custom tracker and randomizer for this challenge.
-Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
-Randomizer and Settings: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
 
 Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
 
-## Downloads
-- Patch for the game and settings file for randomizer: [https://github.com/arexbold/TripleBondChallenge/releases](https://github.com/arexbold/TripleBondChallenge/releases)
-- Modified tracker required for this challenge: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
-- Modified randomizer required for this challenge: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
+Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
+
+Randomizer and Settings: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
 
 ## Known Bugs
 - TMs will not disappear after use. Please sell them after you use it.
