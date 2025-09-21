@@ -145,5 +145,10 @@ Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github
 
 Randomizer and Settings: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
 
+### Folder Structure
+Here's an example of what files to have in your Triple Bond Challenge folder (minus Bizhawk which can be elsewhere)
+<img width="534" height="163" alt="image" src="https://github.com/user-attachments/assets/e4515c59-b5ca-415e-b967-441398f2bdc0" />
+
+
 ## Known Bugs
 - TMs will not disappear after use. Please sell them after you use it.
