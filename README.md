@@ -31,9 +31,14 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
-- You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
 - After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
   - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
+
+### Extra Catching Rules
+- You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
+- You are not allowed to use Headbutt to get more mons.
+- If you catch a mon with a banned ability, you're free to try catching the same mon again if it has a second ability.
+  - You can decide to catch a different mon on that route if it only has a banned ability.
 
 ### Important features you need to know:
 - Press Select to cycle the tracker view between your Pokemon in party.
