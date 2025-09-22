@@ -29,6 +29,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
+- You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
 
 ### Early Run Rewards
 - You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
@@ -70,7 +71,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Held Item restrictions
 - You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
-- Anything that will heal you essentially
+- Anything that will heal you essentially.
+- You are allowed to use ANY type of berry. No restrictions on berries.
 
 ### TMs/HMs usage
 - TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
