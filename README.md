@@ -32,6 +32,14 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
 - You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
+- After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
+  - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
+
+### Important features you need to know:
+- Press Select to cycle the tracker view between your Pokemon in party.
+  - This helps with making quick decisions in battle for switching.
+  - It also helps if multiple mons learn moves in battle so you can see their stats.
+- Press R to Fast Travel to anywhere you've been. Please only use after you beat the first rival fight.
 
 ### Early Run Rewards
 - You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
@@ -59,7 +67,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You can freely use drain moves (Giga Drain, Drain Punch, etc) because their drain amount have been lowered to 20%.
 
 ### Banned Abilities
-- Pickup is banned and taken out of the randomization.
+- Pickup is banned and taken out of the randomization because enemy mons can't benefit from it.
+- Poison Heal is banned.
 
 ### Banned Moves
 - Rest, Spore, and Pain Split.
@@ -69,7 +78,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You are allowed to use any 1 stage Setup Move twice per battle. Ex: Growl, Meditate, Harden
 - You are allowed to use any 2 stage Setup Move once per battle. Ex: Swords Dance, Tail Glow, Iron Defense (Moves like Dragon Dance count as a 2 stage Setup Move.)
 - You are allowed to use any Setup Items but only twice per battle.
-- **If you use a Setup Item in battle, you are not allowed use Setup Moves in that same battle or vice versa**. 
+- **If you use a Setup Item in battle, you are not allowed use Setup Moves in that same battle or vice versa**.
+- Moves like Rage, Charge Beam, etc are not Setup Moves. They're attacks so you can keep using them.
 
 ### Held Item restrictions
 - You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
