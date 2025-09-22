@@ -26,6 +26,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Start of Run
 - **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
+- Choose a direction before you look at your starter. That is your starter. See Pokemon Restrictions for mons you're not allowed to use.
+  - If your starter is a banned, you're free to choose between the others.
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
