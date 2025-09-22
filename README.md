@@ -86,7 +86,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You're allowed to use 1 of the 3 TMs that are leading up to the Bug Catching Contest.
   - TM from National Park
   - TM from Burnt Tower
-  - TM outside west exit of Ecruteak
+  - TM outside the east exit of Ecruteak
 - All mons in the Bug Catching Contest are level 30 so there are no level restrictions.
 - You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
