@@ -123,8 +123,13 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Gym leaders, bosses, and Elite Four trainers have held items.
 
 ### Mid-game Rules
+- Ecruteak
+  - You cannot exit to the West until you beat the Burnt Tower. 
 - Team Rocket HQ
   - After the first statue fights, disable the statues. It's the blue laptop next to the scientest.
+
+### Lake Rage Shiny
+- You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
