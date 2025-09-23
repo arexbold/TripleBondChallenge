@@ -116,7 +116,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Trainer Pokemon levels are increased by 30%.
 - No shopping except for Repels.
 - Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
-  - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind.
+  - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind UNLESS they were inaccessible when you first cleared the dungeon.
 - You must beat all trainers in a gym before fighting the Gym Leader.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Forced evos for enemy mons at level 30.
