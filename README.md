@@ -34,6 +34,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - There's a hidden item on the lightpost after you beat the rival.
 - After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
   - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
+- There is a Giratina in the SW house of New Bark Town that will give friendship for friendship evo mons.
 
 ### Extra Catching Rules
 - You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
@@ -50,6 +51,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Early Run Rewards
 - You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
 - After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these if you want to *fix* your Pokemon's stats.
+- The NPC that will take shards for berries is in Violet Town so don't forget to use him. 
 
 ### EXP & Progression
 - EXP is **evenly distributed** among all three Pokemon (via patch).
