@@ -7,7 +7,7 @@ Join Discord for bugs/feedback (The public channels will be up soon sorry): [htt
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
-Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff QOL including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge.
+Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge.
 
 ## **Core Rules**
 
@@ -31,6 +31,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
+  - There's a hidden item on the lightpost after you beat the rival.
 - After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
   - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
 
@@ -114,9 +115,14 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - No shopping except for Repels.
 - Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
   - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind.
+- You must beat all trainers in a gym before fighting the Gym Leader.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Forced evos for enemy mons at level 30.
 - Gym leaders, bosses, and Elite Four trainers have held items.
+
+### Mid-game Rules
+- Team Rocket HQ
+  - After the first statue fights, disable the statues. It's the blue laptop next to the scientest.
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
