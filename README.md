@@ -175,6 +175,10 @@ Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github
 
 Randomizer and Settings: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
 
+### Helpful map
+If you don't have HeartGold memorized then it's required you use this map otherwise you will miss so much. The only thing that's wrong are the levels on the trainers. Everything else is accurate.
+[https://kelseyyoung.github.io/HGSSIronmonMap/](https://kelseyyoung.github.io/HGSSIronmonMap/)
+
 ### Folder Structure
 Here's an example of what files to have in your Triple Bond Challenge folder (minus Bizhawk which can be elsewhere)
 <img width="534" height="163" alt="image" src="https://github.com/user-attachments/assets/e4515c59-b5ca-415e-b967-441398f2bdc0" />
