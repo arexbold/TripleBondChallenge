@@ -3,7 +3,7 @@ A very difficult challenge that brings a roguelike experience in Pokemon HeartGo
 
 **CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES. SO IF YOU'RE DOWN TO TEST AND GIVE FEEDBACK PLEASE DO SO.** 
 
-Join Discord for bugs/feedback (The public channels will be up soon sorry): [https://discord.gg/5QFdXGh](https://discord.gg/5QFdXGh)
+Please join Discord for bugs/feedback: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf) We're gonna need it! haha
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
