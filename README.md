@@ -156,7 +156,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
 
 ## Victory Conditions
-- **Win:** Defeat Red in Mt Silver.
+- **Win:** Defeat Red(???) in Mt Silver. You will be teleported after you beat the Champ at the Elite Four. 
 - **Lose:** If **any one** of your 3 dies, reset.
 
 ---
