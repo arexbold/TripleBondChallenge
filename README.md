@@ -1,6 +1,8 @@
 # TripleBondChallenge
 A very difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
 
+**YES THERE IS A LOT OF TEXT. I'M NOT PRIORITIZING TEXT RULE OPTIMIZATION YET.**
+
 **CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES. SO IF YOU'RE DOWN TO TEST AND GIVE FEEDBACK PLEASE DO SO.** 
 
 Please join Discord for bugs/feedback: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf) We're gonna need it! haha
@@ -130,6 +132,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
+- No Orin, you can't catch a legendary/pseudo.
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
