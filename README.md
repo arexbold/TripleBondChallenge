@@ -16,7 +16,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Party Rules
 - You may only ever have **three Pokemon** in your party if you're going to battle.
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
-- The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward)
+- The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward.
 
 ### Battle Rules
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
@@ -29,7 +29,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Start of Run
 - **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
 - Choose a direction before you look at your starter. That is your starter. See Pokemon Restrictions for mons you're not allowed to use.
-  - If your starter is a banned, you're free to choose between the others.
 - You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
@@ -39,7 +38,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - There is a Giratina in the SW house of New Bark Town that will give friendship for friendship evo mons.
 
 ### Extra Catching Rules
-- You are not allowed to fish for any Pokemon that are after the first Rival fight. Only spot you can fish for a Pokemon to use is New Bark Town.
 - You are not allowed to use Headbutt to get more mons.
 - If you catch a mon with a banned ability, you're free to try catching the same mon again if it has a second ability.
   - You can decide to catch a different mon on that route if it only has a banned ability.
@@ -103,10 +101,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Bug Catching Scout Reward
 - After you beat gym 4, you are now rewarded with a scouted mon! Congratulations on getting here. Now that you know what your team lacks, it's time to search for the missing piece to your trio!
-- You're allowed to use 1 of the 3 TMs that are leading up to the Bug Catching Contest.
-  - TM from National Park
-  - TM from Burnt Tower
-  - TM outside the east exit of Ecruteak
+- The 3 extra TMs you get from beating Morty can all be used.
 - All mons in the Bug Catching Contest are level 30 so there are no level restrictions.
 - You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
@@ -124,12 +119,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Forced evos for enemy mons at level 30.
 - Gym leaders, bosses, and Elite Four trainers have held items.
 
-### Mid-game Rules
-- Ecruteak
-  - You cannot exit to the West until you beat the Burnt Tower. 
-- Team Rocket HQ
-  - After the first statue fights, disable the statues. It's the blue laptop next to the scientest.
-
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
 - No Orin, you can't catch a legendary/pseudo.
@@ -139,7 +128,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Class system for randomized stats. Randomize between 8 different classes with additional smart randomization. Less "useless" mons compared to vanilla randomization.
 - Removed moves and abilities to better adjust for challenge.
 - Added HMs to the randomized move pool.
-- 30 Nest Balls, Old Rod, and Smokeball given at the beginning.
+- 30 Nest Balls at the beginning.
 - You can now catch up to 4 mons (from 11 mons available) before the rival. This includes a fishing spot in New Bark.
 - The first 3 grasses now have only level 5s.
 - Equalized the wild grass rates to be even between all mons. (It's not perfect unfortunately)
