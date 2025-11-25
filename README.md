@@ -28,8 +28,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Start of Run
 - **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
-- Choose a direction before you look at your starter. That is your starter. See Pokemon Restrictions for mons you're not allowed to use.
-- You can only catch one mon from each route via the 3 halls or fishing spot before the rival.
+- Choose a ball direction before you look at the starter Pokemon. You must pick that one.
+- You can only catch one mon from each route via the 3 halls or starting town.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
 - You must have your party of 3 before you fight the rival. No more, no less.
   - There's a hidden item on the lightpost after you beat the rival.
@@ -39,7 +39,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Extra Catching Rules
 - You are not allowed to use Headbutt to get more mons.
-- If you catch a mon with a banned ability, you're free to try catching the same mon again if it has a second ability.
+- If you catch a mon with a banned ability, you're free to catch the same mon again if it has a second ability.
   - You can decide to catch a different mon on that route if it only has a banned ability.
 
 ### Important features you need to know:
@@ -60,26 +60,21 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - All EXP comes from **trainer battles only**.
 
 ### Pokemon Restrictions
-- You cannot use any Pokemon with a BST of 600 or higher.
-  - Exception: If a Pokemon happens to evolve into a Pseudo Legendary mon of 600 BST that's fine.
 - No dupes of the same Pokemon.
   - Exception: If a Pokemon happens to evolve into the same mon as another party member it's fine.
-- No legendaries. 
 
 ### Move/Ability restrictions
 - Can only use Huge/Pure Power on mons with 420 BST and below.
   - Exception: If you **never** use a physical move, you don't have a BST restriction. 
 - Can use healing moves but only once per battle if outside of a dungeon/gym.
   - If you're in a dungeon/gym you can only use it once for that whole dungeon/gym.
-  - You cannot use healing moves in wild battles.
-- You can freely use drain moves (Giga Drain, Drain Punch, etc) because their drain amount have been lowered to 20%.
+  - This rule applies to each mon on your team.
 
 ### Banned Abilities
-- Pickup is banned and taken out of the randomization because enemy mons can't benefit from it.
 - Poison Heal is banned.
 
 ### Banned Moves
-- Rest, Spore, and Pain Split.
+- Aqua Ring, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
 
 ### Setup Moves/Items restrictions
@@ -98,24 +93,22 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
 - HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
+- The 3 extra TMs you get from beating Morty can all be used.
 
 ### Bug Catching Scout Reward
-- After you beat gym 4, you are now rewarded with a scouted mon! Congratulations on getting here. Now that you know what your team lacks, it's time to search for the missing piece to your trio!
-- The 3 extra TMs you get from beating Morty can all be used.
-- All mons in the Bug Catching Contest are level 30 so there are no level restrictions.
-- You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three but you **cannot** use the Move Relearner since you've scouted.
+- After you beat Gym 4, you are allowed to catch a new mon from the Bug Catching Contest to replace one of your Pokemon.
+- You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three.
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
 - You are allowed to use the Spite Move Tutor at the Bug Catching Contest if you choose.
-- You are allowed to use the Move Relearner NPC at the Bug Catching Contest on your **confirmed picked mon** and only **after you release the mon you're giving up from your original three**.
-- If you are not going to scout for any Pokemon and are satisfied with your team of three already, you are allowed to use the Move Relearner NPC on any one of your original three. **Only if you choose to not scout**.
+- You are allowed to use the Move Relearner NPC at the Bug Catching Contest only after you beat Morty.
 
 ### Trainer & Game Rules
-- Trainer Pokemon levels are increased by 30%.
-- No shopping except for Repels.
+- No shopping except for repels and evo items from GoldenRod City.
 - Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
   - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind UNLESS they were inaccessible when you first cleared the dungeon.
 - You must beat all trainers in a gym before fighting the Gym Leader.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
+- Trainer Pokemon levels are increased by 30%.
 - Forced evos for enemy mons at level 30.
 - Gym leaders, bosses, and Elite Four trainers have held items.
 
@@ -128,10 +121,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Class system for randomized stats. Randomize between 8 different classes with additional smart randomization. Less "useless" mons compared to vanilla randomization.
 - Removed moves and abilities to better adjust for challenge.
 - Added HMs to the randomized move pool.
+- Static encounters instead of wild encounters for ease of use.
 - 30 Nest Balls at the beginning.
-- You can now catch up to 4 mons (from 11 mons available) before the rival. This includes a fishing spot in New Bark.
-- The first 3 grasses now have only level 5s.
-- Equalized the wild grass rates to be even between all mons. (It's not perfect unfortunately)
+- You can now catch up to 4 mons (from 11 mons available) before the rival.
 - You are unable to use the lab for healing but will get healed right before you start the Rival battle.
 - Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
 - No longer need an HM friend.
@@ -148,7 +140,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
 
 ## Victory Conditions
-- **Win:** Defeat Red(???) in Mt Silver. You will be teleported after you beat the Champ at the Elite Four. 
+- **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
 - **Lose:** If **any one** of your 3 dies, reset.
 
 ---
