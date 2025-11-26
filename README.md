@@ -91,6 +91,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### TMs/HMs usage
 - TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
+  - You are allowed to use the TMs that come with a caught Pokemon.
 - HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
 - The 3 extra TMs you get from beating Morty can all be used.
