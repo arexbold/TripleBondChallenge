@@ -74,7 +74,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Poison Heal is banned.
 
 ### Banned Moves
-- Aqua Ring, Rest, Spore, and Pain Split.
+- Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
 
 ### Setup Moves/Items restrictions
@@ -86,8 +86,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Held Item restrictions
 - You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
-- Anything that will heal you essentially.
-- You are allowed to use ANY type of berry. No restrictions on berries.
+- You are allowed to use any type of berry. No restrictions on berries.
 
 ### TMs/HMs usage
 - TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
