@@ -101,6 +101,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
 - You are allowed to use the Spite Move Tutor at the Bug Catching Contest if you choose.
 - You are allowed to use the Move Relearner NPC at the Bug Catching Contest only after you beat Morty.
+  - You are not allowed to relearn Sketch.
 
 ### Trainer & Game Rules
 - No shopping except for repels and evo items from GoldenRod City.
