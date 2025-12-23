@@ -1,9 +1,9 @@
 # TripleBondChallenge
 A very difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
 
-**YES THERE IS A LOT OF TEXT. I'M NOT PRIORITIZING TEXT RULE OPTIMIZATION YET.**
+**CURRENTLY GOING THROUGH CLEANUP AND CHANGES FOR RELEASE. THESE RULES ARE NOW INCORRECT AND A LITTLE MESSY FOR CURRENT PRE-RELEASE RUNNERS. SORRY.**
 
-**CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES. SO IF YOU'RE DOWN TO TEST AND GIVE FEEDBACK PLEASE DO SO.** 
+**CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
 
 Please join Discord for bugs/feedback: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf) We're gonna need it! haha
 
@@ -19,23 +19,23 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward.
 
 ### Battle Rules
-- The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
-- All Held Items are allowed except broken items like Leftovers, Focus Band, etc. See Held Item Restrictions.
 - **No healing outside of battle** except for using the Pokemon Center.
-
+| test | test | test|
 ### Permadeath
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
+
+### Victory Conditions
+- **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
+- **Lose:** If **any one** of your 3 dies, reset.
 
 ### Start of Run
 - **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
 - Choose a ball direction before you look at the starter Pokemon. You must pick that one.
 - You can only catch one mon from each route via the 3 halls or starting town.
 - You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
-- You must have your party of 3 before you fight the rival. No more, no less.
-  - There's a hidden item on the lightpost after you beat the rival.
+- There's a hidden item on the lightpost after you beat the rival.
 - After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
   - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
-- There is a Giratina in the SW house of New Bark Town that will give friendship for friendship evo mons.
 
 ### Extra Catching Rules
 - You are not allowed to use Headbutt to get more mons.
@@ -63,37 +63,25 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - No dupes of the same Pokemon.
   - Exception: If a Pokemon happens to evolve into the same mon as another party member it's fine.
 
-### Move/Ability restrictions
-- Can only use Huge/Pure Power on mons with 420 BST and below.
-  - Exception: If you **never** use a physical move, you don't have a BST restriction. 
+### Move Restrictions
 - Can use healing moves but only once per battle if outside of a dungeon/gym.
   - If you're in a dungeon/gym you can only use it once for that whole dungeon/gym.
   - This rule applies to each mon on your team.
-
-### Banned Abilities
-- Poison Heal is banned.
 
 ### Banned Moves
 - Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
 
 ### Setup Moves/Items restrictions
-- You are allowed to use any 1 stage Setup Move twice per battle. Ex: Growl, Meditate, Harden
-- You are allowed to use any 2 stage Setup Move once per battle. Ex: Swords Dance, Tail Glow, Iron Defense (Moves like Dragon Dance count as a 2 stage Setup Move.)
-- You are allowed to use any Setup Items but only twice per battle.
-- **If you use a Setup Item in battle, you are not allowed use Setup Moves in that same battle or vice versa**.
-- Moves like Rage, Charge Beam, etc are not Setup Moves. They're attacks so you can keep using them.
+- Any pure setup move (that does not deal damage) can only be used once per Pokemon per battle.
+- Additionally, you cannot use Battle Items on a Pokemon that used a setup move, or the reverse order.
 
 ### Held Item restrictions
-- You are allowed to use any held item except for the following: Leftovers, Focus Band, Focus Sash, Shell Bell
-- You are allowed to use any type of berry. No restrictions on berries.
+- None
 
 ### TMs/HMs usage
-- TMs found in the field are not allowed to be used. You're only allowed to use TMs that you receive from Gym Leaders.
-  - You are allowed to use the TMs that come with a caught Pokemon.
 - HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
-- The 3 extra TMs you get from beating Morty can all be used.
 
 ### Bug Catching Scout Reward
 - After you beat Gym 4, you are allowed to catch a new mon from the Bug Catching Contest to replace one of your Pokemon.
@@ -101,21 +89,24 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
 - You are allowed to use the Spite Move Tutor at the Bug Catching Contest if you choose.
 - You are allowed to use the Move Relearner NPC at the Bug Catching Contest only after you beat Morty.
-  - You are not allowed to relearn Sketch.
+  - You are not allowed to relearn Sketch Orin.
 
 ### Trainer & Game Rules
-- No shopping except for repels and evo items from GoldenRod City.
+- No shopping except for evo items from GoldenRod City.
 - Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
   - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind UNLESS they were inaccessible when you first cleared the dungeon.
 - You must beat all trainers in a gym before fighting the Gym Leader.
-- Moves, abilities, evolutions (same typing), stats, etc are all randomized.
-- Trainer Pokemon levels are increased by 30%.
-- Forced evos for enemy mons at level 30.
-- Gym leaders, bosses, and Elite Four trainers have held items.
 
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
 - No Orin, you can't catch a legendary/pseudo.
+
+## Not rules but information for the people that are curious
+- The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
+- Moves, abilities, evolutions (same typing), stats, etc are all randomized.
+- Trainer Pokemon levels are increased by 30%.
+- Forced evos for enemy mons at level 30.
+- Gym leaders, bosses, and Elite Four trainers have held items.
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
@@ -140,9 +131,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Updated Moves
 - There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
 
-## Victory Conditions
-- **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
-- **Lose:** If **any one** of your 3 dies, reset.
 
 ---
 ## Setup
