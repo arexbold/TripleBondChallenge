@@ -20,7 +20,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Battle Rules
 - **No healing outside of battle** except for using the Pokemon Center.
-| test | test | test|
+
 ### Permadeath
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
 
