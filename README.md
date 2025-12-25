@@ -1,9 +1,9 @@
 # TripleBondChallenge
 A very difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
 
-**CURRENTLY GOING THROUGH CLEANUP AND CHANGES FOR RELEASE. THESE RULES ARE NOW INCORRECT AND A LITTLE MESSY FOR CURRENT PRE-RELEASE RUNNERS. SORRY.**
+**CURRENTLY GOING THROUGH CLEANUP AND CHANGES FOR RELEASE PREP. THESE RULES ARE NOW INCORRECT, MISSING THINGS, AND A LITTLE MESSY FOR CURRENT PRE-RELEASE RUNNERS. SORRY.**
 
-**CURRENTLY IN PRE-RELEASE WHICH IS THE PUBLIC TESTING PHASE BEFORE OFFICIAL RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
+**CURRENTLY IN PRE-RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
 
 Please join Discord for bugs/feedback: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf) We're gonna need it! haha
 
@@ -110,11 +110,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### QOL Updates and Features
 - Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
-- Class system for randomized stats. Randomize between 8 different classes with additional smart randomization. Less "useless" mons compared to vanilla randomization.
 - Removed moves and abilities to better adjust for challenge.
 - Added HMs to the randomized move pool.
 - Static encounters instead of wild encounters for ease of use.
-- 30 Nest Balls at the beginning.
 - You can now catch up to 4 mons (from 11 mons available) before the rival.
 - You are unable to use the lab for healing but will get healed right before you start the Rival battle.
 - Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
@@ -128,9 +126,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Favorites
 - There's no need to do Favorites like seen in other challenges but feel free to do it if you want.
 
-### Updated Moves
-- There have been some moves that are awful that have been boosted slightly. Will update list later. Lots of moves were boosted.
-
+### Documenation
+- I'll eventually get to this sorry.
 
 ---
 ## Setup
