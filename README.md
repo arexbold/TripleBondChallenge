@@ -115,7 +115,7 @@ Information for setting up to run the challenge.
 Please note: **If there's ever an update of the rom patch that requires you to update the randomizer/tracker it will say so with an additional text file named with UPDATE YOUR RANDOMIZER/TRACKER**
 
 ### How to patch your game for Triple Bond Challenge
-Video Tutorial for patching rom: [https://youtu.be/N_i5NUixIV0](https://youtu.be/N_i5NUixIV0)
+Video Tutorial for patching rom: [https://youtu.be/N_i5NUixlV0](https://youtu.be/N_i5NUixlV0) 
 
 
 Download the [patch](https://github.com/arexbold/TripleBondChallenge/releases) and apply it to a vanilla USA HeartGold rom with the Rom Patcher: [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/)
