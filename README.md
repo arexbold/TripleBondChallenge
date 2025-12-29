@@ -141,6 +141,12 @@ Please use Bizhawk for this challenge: [https://github.com/TASEmulators/BizHawk/
 
 Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
 
+### Required Emulator Setting
+You must change this setting to run this challenge. Initial Time and Use Real Time settings should be exactly like the images below.
+<img width="426" height="102" alt="image" src="https://github.com/user-attachments/assets/7fca962f-0710-4b4e-bfe6-c2502e0043d9" />
+<img width="343" height="414" alt="image" src="https://github.com/user-attachments/assets/c0b375e9-80ba-4278-851a-6b539c11fe96" />
+
+
 ### Required Tracker and Randomizer
 It is required that you use the custom tracker and randomizer for this challenge.
 
