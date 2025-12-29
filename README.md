@@ -1,9 +1,12 @@
 # TripleBondChallenge
 A difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
 
+<img width="649" height="452" alt="image" src="https://github.com/user-attachments/assets/a1bb16a9-cb59-4a81-b0ef-3a7089bc19c2" />
+
+
 Please join the Discord for updates/feedback/help: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf)
 
-**Challenge by [Arex](https://twitch.tv/Arex)**
+**Challenge developed by [Arex](https://twitch.tv/Arex)**
 
 Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful helpful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge. Everyone from the Discord that helped test the early versions including Orin for playing an insane amount which really helped with data.
 
@@ -75,7 +78,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If you have Diamond Dust then please refer to the Required Emulator Settings below.
 
 ---
-## Information
+## Extra Information (not rules)
 ### QOL Updates and Features
 - Changed the intro so that everything is done as soon you leave the lab. The 1st 3 routes with Pokemon are all connected by halls. Starting up a run is quick.
 - Static encounters instead of wild encounters for ease of use.
