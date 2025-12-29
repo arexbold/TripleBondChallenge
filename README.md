@@ -1,15 +1,11 @@
 # TripleBondChallenge
-A very difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
+A difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. 
 
-**CURRENTLY GOING THROUGH CLEANUP AND CHANGES FOR RELEASE PREP. THESE RULES ARE NOW INCORRECT, MISSING THINGS, AND A LITTLE MESSY FOR CURRENT PRE-RELEASE RUNNERS. SORRY.**
-
-**CURRENTLY IN PRE-RELEASE. NO RUNS ARE LEGITIMATE DUE TO POTENTIAL BUGS AND UNFINISHED RULES.** 
-
-Please join Discord for bugs/feedback: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf) We're gonna need it! haha
+Please join the Discord for updates/feedback/help: [https://discord.gg/mg3G3VqVbf](https://discord.gg/mg3G3VqVbf)
 
 **Challenge by [Arex](https://twitch.tv/Arex)**
 
-Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge.
+Special thanks to the following: Kalaay and Yako for helping with changing hardcoded stuff including the EXP split. Fantafaust for HM QOL integration. AdAstra and Mixone for DSPRE and tools. PyroMike for the initial Intro Patch this was built on. All the wonderful helpful people from Kingdom of DS Hacking. OnlySpaghettiCode, UTDZac, and Mixone for helping make the NDS tracker compatible with the challenge. Everyone from the Discord that helped test the early versions including Orin for playing an insane amount which really helped with data.
 
 ## **Core Rules**
 
@@ -18,9 +14,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
 - The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward.
 
-### Battle Rules
-- **No healing outside of battle** except for using the Pokemon Center.
-
 ### Permadeath
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
 
@@ -28,31 +21,24 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
 - **Lose:** If **any one** of your 3 dies, reset.
 
+### Trainer & Game Rules
+- **No healing outside of battle** except for using the Pokemon Center.
+- You are only allowed to fight trainers for EXP.
+- No shopping except for evo items from GoldenRod City.
+- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
+  - You may re-enter cleared Dungeons, but you cannot fight skipped trainers unless they were perviously inaccessible.
+- You must beat all trainers in a gym before fighting the Gym Leader.
+
 ### Extra Catching Rules
 - You are not allowed to use Headbutt to get more mons.
 
-### Important features you need to know:
-- Press Select to cycle the tracker view between your Pokemon in party.
-  - This helps with making quick decisions in battle for switching.
-  - It also helps if multiple mons learn moves in battle so you can see their stats.
-- Press R to Fast Travel to anywhere you've been. Please only use after you beat the first rival fight.
-
-### Early Run Rewards
-- You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
-- After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these if you want to *fix* your Pokemon's stats.
-
-### EXP & Progression
-- **No wild Pokemon EXP**.
-- All EXP comes from **trainer battles only**.
-
 ### Pokemon Restrictions
 - No dupes of the same Pokemon.
-  - Exception: If a Pokemon happens to evolve into the same mon as another party member it's fine.
+  - If a Pokemon happens to evolve into the same mon as another in your party. it's fine.
 
 ### Move Restrictions
-- Can use healing moves but only once per battle if outside of a dungeon/gym.
-  - If you're in a dungeon/gym you can only use it once for that whole dungeon/gym.
-  - This rule applies to each mon on your team.
+- You can only use healing moves once per Pokemon per battle.
+  - If you're in a dungeon/gym, you can only use it once for the whole dungeon/gym per Pokemon.
 
 ### Banned Moves
 - Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
@@ -63,30 +49,18 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - If your mon has Simple, 2 stage setup moves are banned.
 - Additionally, you cannot use Battle Items on a Pokemon that used a setup move, or the reverse order.
 
-### Held Item restrictions
-- None
-
 ### TMs/HMs usage
-- HMs are now randomized into Pokemon movesets. You are only allowed to use HM moves if it was randomized into your Pokemon's moveset. **You cannot teach your Pokemon an HM Move with an HM**
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
 
 ### Bug Catching Scout Reward
-- After you beat Gym 4, you are allowed to catch a new mon from the Bug Catching Contest to replace one of your Pokemon.
-- You are only allowed to catch 3 Pokemon to look at and decide on **only one** that you'll use. If you don't like any of them that's fine. You can choose to keep your original three.
-- If one of your Pokemon happens to die from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
-- You are allowed to use the Spite Move Tutor at the Bug Catching Contest if you choose.
-- You are allowed to use the Move Relearner NPC at the Bug Catching Contest only after you beat Morty.
-  - You are not allowed to relearn Sketch Orin.
-
-### Trainer & Game Rules
-- No shopping except for evo items from GoldenRod City.
-- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
-  - You are allowed to go back into a Dungeon if you have cleared it but you are not allowed to fight any trainers you left behind UNLESS they were inaccessible when you first cleared the dungeon.
-- You must beat all trainers in a gym before fighting the Gym Leader.
+- After you beat Gym 4, you are now allowed to replace 1 mon from your team via the Bug Catching area in National Park.
+  - You are allowed to scout these Pokemon freely.
+  - You can only catch 3 Pokemon to look at and decide on **only one**.
+- If any of your Pokemon dies from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
+  - Same rule applies if you kill the mon you're trying to scout.
 
 ### Lake Rage Shiny
-- You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
-- No Orin, you can't catch a legendary/pseudo.
+- You may catch this to use if you like but you must give up one of your mons immediately after you catch it.
 
 ### Red's Fight
 - Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
@@ -98,29 +72,30 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 - If you have Diamond Dust then please refer to the Required Emulator Settings below.
 
-## Not rules but information for the people that are curious
+---
+## Information
+### QOL Updates and Features
+- Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
+- Static encounters instead of wild encounters for ease of use.
+- You can now catch up to 4 mons (from 11 mons available) before the rival.
+- You will ALWAYS run away from battle. No longer need Smoke Ball.
+- Fast Travel (Fly) with pressing the R button. This is unlocked from the beginning of the game but don't start using until you beat the rival.
+- Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
+- EXP is **evenly distributed** among all three Pokemon (via patch).
+  - It doesn't matter if they participated in the battle or not.
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
+- Added HMs to the randomized move pool.]
+- No longer need an HM friend.
+- Removed moves and abilities to better adjust for challenge.
+- Some moves have been modified to fit the challenge. Mainly weak moves have been buffed, drain moves changed, and other changes.
+- Move Releaner NPC at the Bug Catching Contest
+- Move Tutor for Spite at the Bug Catching Contest
+
+### Randomizer Settings
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
 - Trainer Pokemon levels are increased by 30%.
 - Forced evos for enemy mons at level 30.
 - Gym leaders, bosses, and Elite Four trainers have held items.
-
-### QOL Updates and Features
-- Tracker changes so that you can cycle through your party of mons really easily with pressing Select.
-- Removed moves and abilities to better adjust for challenge.
-- Added HMs to the randomized move pool.
-- Static encounters instead of wild encounters for ease of use.
-- You can now catch up to 4 mons (from 11 mons available) before the rival.
-- You are unable to use the lab for healing but will get healed right before you start the Rival battle.
-- Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
-- No longer need an HM friend.
-- Fast Travel (Fly) with pressing the R button. This is unlocked from the beginning of the game but don't start using until you beat the rival.
-- Some moves have been modified to fit the challenge. Mainly weak moves have been buffed, drain moves changed, and other changes.
-- Move Releaner NPC at the Bug Catching Contest
-- Move Tutor for Spite at the Bug Catching Contest
-- You will ALWAYS run away from battle. No longer need Smoke Ball.
-- EXP is **evenly distributed** among all three Pokemon (via patch).
-  - It doesn't matter if they participated in the battle or not.
 
 ### Favorites
 - There's no need to do Favorites like seen in other challenges but feel free to do it if you want.
