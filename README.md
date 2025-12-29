@@ -66,10 +66,10 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Red's Fight
 - Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
-- Diamond Dust looks like this (slower with flakes):
+- Diamond Dust looks like this (slower with smaller flakes):
 <img width="668" height="511" alt="image" src="https://github.com/user-attachments/assets/d6913cf8-1395-4e6c-a192-a2791dffd7b9" />
 
-- **You want this type of snowstorm (faster and round):**
+- **You want this type of snowstorm (faster and ball-like):**
 <img width="657" height="494" alt="image" src="https://github.com/user-attachments/assets/b5a9f885-0bae-457a-bbd4-e2b8def643ec" />
 
 - If you have Diamond Dust then please refer to the Required Emulator Settings below.
@@ -77,7 +77,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ---
 ## Information
 ### QOL Updates and Features
-- Changed the intro so that everything is done as soon you leave the lab. No more walking for 2 mins. The 1st 3 routes with Pokemon are all connected to each other by rooms. Starting up a run is quick.
+- Changed the intro so that everything is done as soon you leave the lab. The 1st 3 routes with Pokemon are all connected by halls. Starting up a run is quick.
 - Static encounters instead of wild encounters for ease of use.
 - You can now catch up to 4 mons (from 11 mons available) before the rival.
 - You will ALWAYS run away from battle. No longer need Smoke Ball.
@@ -86,7 +86,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - EXP is **evenly distributed** among all three Pokemon (via patch).
   - It doesn't matter if they participated in the battle or not.
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
-- Added HMs to the randomized move pool.]
+- Added HMs to the randomized move pool.
 - No longer need an HM friend.
 - Removed moves and abilities to better adjust for challenge.
 - Some moves have been modified to fit the challenge. Mainly weak moves have been buffed, drain moves changed, and other changes.
@@ -130,6 +130,7 @@ Initial Time and Use Real Time settings should be exactly like the images below.
 It is required that you use the custom tracker and randomizer for this challenge.
 
 Tracker and Randomizer: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
+Video Tutorial for tracker setup: [https://youtu.be/JEbL4Elem0o](https://youtu.be/JEbL4Elem0o)
 
 ### Helpful map
 If you don't have HeartGold memorized then it's required you use this map otherwise you will miss so much. The only thing that's wrong are the levels on the trainers. Everything else is accurate.
