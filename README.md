@@ -18,8 +18,10 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
 
 ### Victory Conditions
-- **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
+- **Win:** Defeat the mysterious trainer after Lance.
+  - You do not go to Kanto in this challenge.
 - **Lose:** If **any one** of your 3 dies, reset.
+  - Exception is Bug Catching
 
 ### Trainer & Game Rules
 - **No healing outside of battle** except for using the Pokemon Center.
