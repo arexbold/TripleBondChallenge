@@ -89,13 +89,14 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - No Orin, you can't catch a legendary/pseudo.
 
 ### Red's Fight
-- Before you talk to Red you must **make sure you are NOT in Diamond Dust snow**.
-- Diadmon Dust looks like this (slower with snowflakes):
+- Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
+- Diamond Dust looks like this (slower with flakes):
 <img width="668" height="511" alt="image" src="https://github.com/user-attachments/assets/d6913cf8-1395-4e6c-a192-a2791dffd7b9" />
 
-- **You want this type of snow storm (faster and round):**
+- **You want this type of snowstorm (faster and round):**
 <img width="657" height="494" alt="image" src="https://github.com/user-attachments/assets/b5a9f885-0bae-457a-bbd4-e2b8def643ec" />
 
+- If you have Diamond Dust then please refer to the Required Emulator Settings below.
 
 ## Not rules but information for the people that are curious
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
@@ -141,8 +142,9 @@ Please use Bizhawk for this challenge: [https://github.com/TASEmulators/BizHawk/
 
 Version 2.11 JUST came out and this challenge patch and the tracker have not been tested with it yet so v 2.10 is linked above.
 
-### Required Emulator Setting
-You must change this setting to run this challenge. Initial Time and Use Real Time settings should be exactly like the images below.
+### Required Emulator Settings
+Initial Time and Use Real Time settings should be exactly like the images below. **Do not manipulate time to get extra items/battles.**
+
 <img width="426" height="102" alt="image" src="https://github.com/user-attachments/assets/7fca962f-0710-4b4e-bfe6-c2502e0043d9" />
 <img width="343" height="414" alt="image" src="https://github.com/user-attachments/assets/c0b375e9-80ba-4278-851a-6b539c11fe96" />
 
