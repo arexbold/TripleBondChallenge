@@ -28,19 +28,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - **Win:** Defeat Red(???) in Mt Silver. This fight happens immediately after you beat the Champ at the Elite Four. **NO YOU DON'T GO TO KANTO**
 - **Lose:** If **any one** of your 3 dies, reset.
 
-### Start of Run
-- **Make sure you make a save file right before you pick your starter ball. This only needs to be done once every time you patch the game with a new update.**
-- Choose a ball direction before you look at the starter Pokemon. You must pick that one.
-- You can only catch one mon from each route via the 3 halls or starting town.
-- You are not allowed to fight these mons to see their moves. You can only catch. (Move scouting is part of a mid-run reward. See Bug Catching Contest.)
-- There's a hidden item on the lightpost after you beat the rival.
-- After you beat the Rival, you can catch one mon from Route 31, Dark Cave, Ruins of Alph, and Route 32. These are to help you further fine tune your team.
-  - Remember: You can only take 3 to battle. I recommend catching everything and then forming a team before fighting the other trainers before Sprout Tower.
-
 ### Extra Catching Rules
 - You are not allowed to use Headbutt to get more mons.
-- If you catch a mon with a banned ability, you're free to catch the same mon again if it has a second ability.
-  - You can decide to catch a different mon on that route if it only has a banned ability.
 
 ### Important features you need to know:
 - Press Select to cycle the tracker view between your Pokemon in party.
@@ -51,11 +40,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Early Run Rewards
 - You're allowed to use the TM 70 and catch 1 of the 2 Pokemon from the Sprout Tower after you beat it. Last chance for a new Pokemon.
 - After you beat Falkner, you are rewarded with EV training items. You are now allowed to use these if you want to *fix* your Pokemon's stats.
-- The NPC that will take shards for berries is in Violet Town so don't forget to use him. 
 
 ### EXP & Progression
-- EXP is **evenly distributed** among all three Pokemon (via patch).
-  - It doesn't matter if they participated in the battle or not.
 - **No wild Pokemon EXP**.
 - All EXP comes from **trainer battles only**.
 
@@ -69,11 +55,12 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - This rule applies to each mon on your team.
 
 ### Banned Moves
-- Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
+- Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
 
 ### Setup Moves/Items restrictions
 - Any pure setup move (that does not deal damage) can only be used once per Pokemon per battle.
+  - If your mon has Simple, 2 stage setup moves are banned.
 - Additionally, you cannot use Battle Items on a Pokemon that used a setup move, or the reverse order.
 
 ### Held Item restrictions
@@ -101,6 +88,15 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it. If you don't like it too bad.
 - No Orin, you can't catch a legendary/pseudo.
 
+### Red's Fight
+- Before you talk to Red you must **make sure you are NOT in Diamond Dust snow**.
+- Diadmon Dust looks like this (slower with snowflakes):
+<img width="668" height="511" alt="image" src="https://github.com/user-attachments/assets/d6913cf8-1395-4e6c-a192-a2791dffd7b9" />
+
+- **You want this type of snow storm (faster and round):**
+<img width="657" height="494" alt="image" src="https://github.com/user-attachments/assets/b5a9f885-0bae-457a-bbd4-e2b8def643ec" />
+
+
 ## Not rules but information for the people that are curious
 - The game is set to Switch mode BUT you cannot see what the enemy will use. This is on purpose by design for the challenge.
 - Moves, abilities, evolutions (same typing), stats, etc are all randomized.
@@ -122,6 +118,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Move Releaner NPC at the Bug Catching Contest
 - Move Tutor for Spite at the Bug Catching Contest
 - You will ALWAYS run away from battle. No longer need Smoke Ball.
+- EXP is **evenly distributed** among all three Pokemon (via patch).
+  - It doesn't matter if they participated in the battle or not.
 
 ### Favorites
 - There's no need to do Favorites like seen in other challenges but feel free to do it if you want.
