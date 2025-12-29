@@ -112,6 +112,9 @@ Information for setting up to run the challenge.
 Please note: **If there's ever an update of the rom patch that requires you to update the randomizer/tracker it will say so with an additional text file named with UPDATE YOUR RANDOMIZER/TRACKER**
 
 ### How to patch your game for Triple Bond Challenge
+Video Tutorial for patching rom: [https://youtu.be/N_i5NUixIV0](https://youtu.be/N_i5NUixIV0)
+
+
 Download the [patch](https://github.com/arexbold/TripleBondChallenge/releases) and apply it to a vanilla USA HeartGold rom with the Rom Patcher: [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/)
 
 ### Required Emulator
@@ -122,7 +125,8 @@ Version 2.11 JUST came out and this challenge patch and the tracker have not bee
 ### Required Emulator Settings
 Initial Time and Use Real Time settings should be exactly like the images below. **Do not manipulate time to get extra items/battles.**
 
-<img width="426" height="102" alt="image" src="https://github.com/user-attachments/assets/7fca962f-0710-4b4e-bfe6-c2502e0043d9" />
+Bizhawk > NDS > Settings 
+
 <img width="343" height="414" alt="image" src="https://github.com/user-attachments/assets/c0b375e9-80ba-4278-851a-6b539c11fe96" />
 
 
@@ -137,8 +141,9 @@ If you don't have HeartGold memorized then it's required you use this map otherw
 [https://kelseyyoung.github.io/HGSSIronmonMap/](https://kelseyyoung.github.io/HGSSIronmonMap/)
 
 ### Folder Structure
-Here's an example of what files to have in your Triple Bond Challenge folder (minus Bizhawk which can be elsewhere)
-<img width="534" height="163" alt="image" src="https://github.com/user-attachments/assets/e4515c59-b5ca-415e-b967-441398f2bdc0" />
+Here's an example of what files to have in your Triple Bond Tracker folder (minus Bizhawk which can be elsewhere)
+<img width="869" height="261" alt="image" src="https://github.com/user-attachments/assets/f80172f2-d314-41f2-a766-ac9166d28442" />
+
 
 
 ## Known Bugs
