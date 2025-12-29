@@ -127,9 +127,7 @@ Initial Time and Use Real Time settings should be exactly like the images below.
 ### Required Tracker and Randomizer
 It is required that you use the custom tracker and randomizer for this challenge.
 
-Tracker: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
-
-Randomizer and Settings: [https://github.com/arexbold/TripleBondRandomizer/releases](https://github.com/arexbold/TripleBondRandomizer/releases)
+Tracker and Randomizer: [https://github.com/arexbold/TripleBondTracker/releases](https://github.com/arexbold/TripleBondTracker/releases)
 
 ### Helpful map
 If you don't have HeartGold memorized then it's required you use this map otherwise you will miss so much. The only thing that's wrong are the levels on the trainers. Everything else is accurate.
