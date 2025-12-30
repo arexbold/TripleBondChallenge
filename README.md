@@ -27,6 +27,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - Exception is Bug Catching
 
 ### Trainer & Game Rules
+- If there isn't a rule listed on this page, you're allowed to do it. **This applies to almost everything.**
 - **No healing outside of battle** except for using the Pokemon Center.
 - You are only allowed to fight trainers for EXP.
 - No shopping except for evo items from GoldenRod City.
@@ -55,7 +56,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Additionally, you cannot use Battle Items on a Pokemon that used a setup move, or the reverse order.
 
 ### TMs/HMs usage
-- TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track.
+- TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track. I will try to fix this eventually.
 
 ### Bug Catching Scout Reward
 - After you beat Gym 4, you are now allowed to replace 1 mon from your team via the Bug Catching area in National Park.
@@ -66,6 +67,13 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it.
+
+### Information
+- If you're new to Triple Bond, talk to Oak. He'll give you important information.
+<img width="104" height="97" alt="image" src="https://github.com/user-attachments/assets/22fcb0db-b315-4546-a083-1110560ff632" />
+
+- If you're new to Pokemon Heart Gold challenges, look out for Celebi in the intro areas. It's guiding you were to go.
+<img width="65" height="77" alt="image" src="https://github.com/user-attachments/assets/2cd42293-88c5-4495-9c43-ebd3542e9c83" />
 
 ### Red's Fight
 - Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
