@@ -1,5 +1,5 @@
 # TripleBondChallenge
-A difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad with huge QOL features to make it more accessible for even new runners!
+A difficult challenge that brings a roguelike experience in Pokemon HeartGold with a focus of using 3 Pokemon as a squad. Very accessible for even new players and filled with tons of QOL features!
 
 <img width="649" height="452" alt="image" src="https://github.com/user-attachments/assets/a1bb16a9-cb59-4a81-b0ef-3a7089bc19c2" />
 
