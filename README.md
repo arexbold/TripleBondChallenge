@@ -69,6 +69,11 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### TMs/HMs usage
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track. I will try to fix this eventually.
 
+### NPC Rewards
+- Outside of gym leaders and required progression NPCs, you are not allowed to use any extra items/TMs you get.
+- Not allowed to use extra move learning NPCs outside of Bug Catching and Move Relearner in Blackthorne.
+- This area will be removed once the next patch is in. The NPCs will be gone. 
+
 ### Bug Catching Scout Reward
 - After you beat Gym 4, you are now allowed to replace 1 mon from your team via the Bug Catching area in National Park.
   - You are allowed to scout these Pokemon freely.
