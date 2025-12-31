@@ -77,6 +77,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If you're new to Pokemon Heart Gold challenges, look out for Celebi in the intro areas. It's guiding you were to go.
 <img width="65" height="77" alt="image" src="https://github.com/user-attachments/assets/2cd42293-88c5-4495-9c43-ebd3542e9c83" />
 
+- If you're new to Pokemon Heart Gold IN GENERAL, please look at this map. It shows lots of information.
+[https://kelseyyoung.github.io/HGSSIronmonMap/](https://kelseyyoung.github.io/HGSSIronmonMap/)
+
 ### Red's Fight
 - Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
 - Diamond Dust looks like this (slower with smaller flakes):
