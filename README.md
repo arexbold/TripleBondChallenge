@@ -27,13 +27,13 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - Exception is Bug Catching
 
 ### Controls
-**Select Button**: While in/out of battle you can cycle between your party members to see information.
+- **Select Button**: While in/out of battle you can cycle between your party members to see information.
 
-**L Button**: Toggle EVs window to see the current EVs on your Pokemon.
+- **L Button**: Toggle EVs window to see the current EVs on your Pokemon.
 
-**Start Button**: Only while in battle you can cycle between the enemy mon information and your active mon.
+- **Start Button**: Only while in battle you can cycle between the enemy mon information and your active mon.
 
-**R Button**: You can Fast Travel to anywhere you've been after you beat the 1st Rival fight.
+- **R Button**: You can Fast Travel to anywhere you've been after you beat the 1st Rival fight.
 
 ### Trainer & Game Rules
 - If there isn't a rule listed on this page, you're allowed to do it. **This applies to almost everything.**
