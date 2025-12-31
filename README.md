@@ -15,7 +15,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Party Rules
 - You may only ever have **three Pokemon** in your party if you're going to battle.
 - Once you beat Falkner, you're locked in on your 3 Pokemon in your party.
-- The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward.
+  - The only time you can replace a Pokemon is after you beat gym 4. See Bug Catching Scout Reward.
 
 ### Permadeath
 - If **any one** of your 3 mons faints at any time, their bond is broken and you must reset by starting a new seed.
@@ -32,10 +32,12 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You are only allowed to fight trainers for EXP.
 - No shopping except for evo items from GoldenRod City.
 - Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
-  - You may re-enter cleared Dungeons, but you cannot fight skipped trainers unless they were perviously inaccessible.
+  - You may re-enter cleared Dungeons, but you cannot fight skipped trainers unless they were previously inaccessible.
 - You must beat all trainers in a gym before fighting the Gym Leader.
 
-### Extra Catching Rules
+### Catching Rules
+- You are only allowed to catch 1 mon from each area/cave/hall.
+  - You are NOT allowed to scout/fight these mons. You can only catch them.
 - You are not allowed to use Headbutt to get more mons.
 
 ### Pokemon Restrictions
