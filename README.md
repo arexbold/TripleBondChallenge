@@ -35,6 +35,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 - **R Button**: You can Fast Travel to anywhere you've been after you beat the 1st Rival fight.
 
+### Starter Mon
+- You must pick a ball before you look at the mons. That is your starter.
+
 ### Trainer & Game Rules
 - If there isn't a rule listed on this page, you're allowed to do it. **This applies to almost everything.**
 - **No healing outside of battle** except for using the Pokemon Center.
