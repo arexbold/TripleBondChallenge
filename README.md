@@ -80,6 +80,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - You can only catch 3 Pokemon to look at and decide on **only one**.
 - If any of your Pokemon dies from scouting, you are no longer allowed to catch the mon that killed your mon. You do not reset.
   - Same rule applies if you kill the mon you're trying to scout.
+- You are allowed to increase the level of a mon that can evolve before making your decision for Bug Catching.
 
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it.
