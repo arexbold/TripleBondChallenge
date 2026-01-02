@@ -113,7 +113,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If you have Diamond Dust then please refer to the Required Emulator Settings below.
 
 ### Run Validation
-- Unfortunately the only way to validate runs will be via live streaming. 
+- Only runs live streamed will be eligible for WR or any records, similar to speedrunning.
 
 ---
 ## Extra Information (not rules)
