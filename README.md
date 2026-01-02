@@ -43,8 +43,8 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - **No healing outside of battle** except for using the Pokemon Center.
 - You are only allowed to fight trainers for EXP.
 - No shopping except for evo items from GoldenRod City.
-- Once you enter a Gym, Elite Four, or dungeon, you may not leave until it is cleared.
-  - You may re-enter cleared Dungeons, but you cannot fight skipped trainers unless they were previously inaccessible.
+- Once you enter a building, cave, gym, if you start fighting a trainer, you cannot leave to go to heal and come back to fight more trainers. You may, however, re-enter the area to pass through.
+  - Exception (Radio Tower): When you leave Radio Tower to go to the basement segment, you may heal. When you leave the basement to go back to the tower, you may heal again.
 - You must beat all trainers in a gym before fighting the Gym Leader.
 
 ### Catching Rules
@@ -57,17 +57,15 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - If a Pokemon happens to evolve into the same mon as another in your party. it's fine.
 
 ### Move Restrictions
-- You can only use healing moves once per Pokemon per battle.
-  - If you're in a dungeon/gym, you can only use it once for the whole dungeon/gym per Pokemon.
-
-### Banned Moves
-- Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
+- Banned moves: Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
+- You can only use healing moves once per Pokemon per battle.
+  - If you're in a building, cave, gym, you can only use the move once per Pokemon.
 
 ### Setup Moves/Items restrictions
 - Any pure setup move (that does not deal damage) can only be used once per Pokemon per battle.
   - If your mon has Simple, 2 stage setup moves are banned.
-- Additionally, you cannot use Battle Items on a Pokemon that used a setup move, or the reverse order.
+- Additionally, Battle Items are treated as Setup Moves. However, only 1 can be used per Pokemon.
 
 ### TMs/HMs usage
 - TMs will not disappear after use due to a bug. You cannot keep using that TM. Please keep track. I will try to fix this eventually.
@@ -75,7 +73,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### NPC Rewards
 - Outside of gym leaders and required progression NPCs, you are not allowed to use any extra items/TMs you get.
 - Not allowed to use extra move learning NPCs outside of Bug Catching and Move Relearner in Blackthorne.
-- This area will be removed once the next patch is in. The NPCs will be gone. 
+- This subset of rules will be updated after a new patch.
 
 ### Bug Catching Scout Reward
 - After you beat Gym 4, you are now allowed to replace 1 mon from your team via the Bug Catching area in National Park.
