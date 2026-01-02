@@ -93,8 +93,11 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - If you're new to Pokemon Heart Gold challenges, look out for Celebi in the intro areas. It's guiding you were to go.
 <img width="65" height="77" alt="image" src="https://github.com/user-attachments/assets/2cd42293-88c5-4495-9c43-ebd3542e9c83" />
 
-- If you're new to Pokemon Heart Gold IN GENERAL, please look at this map. It shows lots of information.
+- If you're new to Pokemon Heart Gold IN GENERAL, please look at this map. It shows lots of information including hidden items.
 [https://kelseyyoung.github.io/HGSSIronmonMap/](https://kelseyyoung.github.io/HGSSIronmonMap/)
+
+- And then here is a general guide to follow on where to go to progress through HeartGold for the Main Storyline.
+[https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_HeartGold_and_SoulSilver](https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_HeartGold_and_SoulSilver)
 
 ### Red's Fight
 - Before you talk to Red you must **make sure you are NOT in Diamond Dust**.
