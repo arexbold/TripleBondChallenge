@@ -112,6 +112,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 
 - If you have Diamond Dust then please refer to the Required Emulator Settings below.
 
+### Run Validation
+- Unfortunately the only way to validate runs will be via live streaming. 
+
 ---
 ## Extra Information (not rules)
 ### QOL Updates and Features
