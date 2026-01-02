@@ -83,6 +83,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - Same rule applies if you kill the mon you're trying to scout.
 - You are allowed to increase the level of a mon that can evolve before making your decision for Bug Catching.
 
+### Rock Smash
+- You are only allowed to Rock Smash each rock that you find once.
+
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it.
 
