@@ -86,6 +86,9 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Rock Smash
 - You are only allowed to Rock Smash each rock that you find once.
 
+### Berry Trees
+- You may not take any berries from the trees.
+
 ### Lake Rage Shiny
 - You may catch this to use if you like but you must give up one of your mons immediately after you catch it.
 
