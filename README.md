@@ -60,7 +60,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Banned moves: Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
 - You can only use healing moves once per Pokemon per battle.
-  - If you're in a building, cave, gym, you can only use the move once per Pokemon.
+  - If you're in a building, cave, gym, you can only use once per Pokemon per AREA. Example: Each Pokemon can only use it once for the whole gym.
 
 ### Setup Moves/Items restrictions
 - Any pure setup move (that does not deal damage) can only be used once per Pokemon per battle.
