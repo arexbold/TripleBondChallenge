@@ -46,6 +46,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - Once you enter a building, cave, gym, if you start fighting a trainer, you cannot leave to go to heal and come back to fight more trainers. You may, however, re-enter the area to pass through.
   - Exception (Radio Tower): When you leave Radio Tower to go to the basement segment, you may heal. When you leave the basement to go back to the tower, you may heal again.
 - You must beat all trainers in a gym before fighting the Gym Leader.
+- Yes you can use held items.
 
 ### Catching Rules
 - You are only allowed to catch 1 mon from each area/cave/hall.
