@@ -47,6 +47,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
   - Exception (Radio Tower): When you leave Radio Tower to go to the basement segment, you may heal. When you leave the basement to go back to the tower, you may heal again.
 - You must beat all trainers in a gym before fighting the Gym Leader.
 - Yes you can use held items.
+- You are not allowed to look at the log until your run is over. Otherwise that will give an unfair advantage.
 
 ### Catching Rules
 - You are only allowed to catch 1 mon from each area/cave/hall.
