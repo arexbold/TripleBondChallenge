@@ -61,6 +61,7 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 ### Move Restrictions
 - Banned moves: Switcheroo, Aqua Ring, Leech Seed, Rest, Spore, and Pain Split.
   - They're not taken out of the randomization so that the enemy can still use them.
+  - Dark Void is banned if you have Compound Eyes.
 - You can only use healing moves once per Pokemon per battle.
   - If you're in a building, cave, gym, you can only use once per Pokemon per AREA. Example: Each Pokemon can only use it once for the whole gym.
   - Drain moves like Mega Drain and Drain Punch can be used as much as you want.
