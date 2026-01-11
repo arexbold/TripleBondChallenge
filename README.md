@@ -64,7 +64,6 @@ Special thanks to the following: Kalaay and Yako for helping with changing hardc
 - You can only use healing moves once per Pokemon per battle.
   - If you're in a building, cave, gym, you can only use once per Pokemon per AREA. Example: Each Pokemon can only use it once for the whole gym.
   - Drain moves like Mega Drain and Drain Punch can be used as much as you want.
-- You are not allowed to use Dark Void if you stream on https://twitch.tv/orin
 
 ### Setup Moves/Items restrictions
 - Any pure setup move (that does not deal damage) can only be used once per Pokemon per battle.
